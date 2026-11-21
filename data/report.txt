@@ -1,0 +1,6 @@
+Total Customers: 3
+Total Orders: 4
+Pending Orders: 1
+Ready Orders: 0
+Collected Orders: 3
+Collected Sales: 860 rupees
